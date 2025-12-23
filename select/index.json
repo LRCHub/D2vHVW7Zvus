@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "stay on",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T06:49:21.725951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay on the Outside / Numéro# - Hit Pop (radio edit) / Phones - Worryin'",
+      "artist": "Whitey",
+      "has_synced": true,
+      "path": "select/01_Stay_on_the_Outside___Numéro__-_Hit_Pop_(radio_edit)___Phones_-_Worryin'_Whitey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay on the Outside / Hit Pop (radio edit) / Worryin'",
+      "artist": "Whitey / Numéro# / Phones",
+      "has_synced": true,
+      "path": "select/02_Stay_on_the_Outside___Hit_Pop_(radio_edit)___Worryin'_Whitey___Numéro____Phones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Hurt Me! Hurt Me!) But the Pants Stay On",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/03_(Hurt_Me!_Hurt_Me!)_But_the_Pants_Stay_On_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay on These Roads",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/04_Stay_on_These_Roads_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay on Top",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/05_Stay_on_Top_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay On",
+      "artist": "Sugar Ray (Featuring Nick Hexum)",
+      "has_synced": false,
+      "path": "select/06_Stay_On_Sugar_Ray_(Featuring_Nick_Hexum).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay On These Roads (7-Inch Version)",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/07_Stay_On_These_Roads_(7-Inch_Version)_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay On Top",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/08_Stay_On_Top_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay on Top",
+      "artist": "Uriah Heep",
+      "has_synced": true,
+      "path": "select/09_Stay_on_Top_Uriah_Heep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay On The Ground",
+      "artist": "Armor for Sleep",
+      "has_synced": true,
+      "path": "select/10_Stay_On_The_Ground_Armor_for_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay on the Ride",
+      "artist": "Patty Griffin",
+      "has_synced": true,
+      "path": "select/11_Stay_on_the_Ride_Patty_Griffin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "stay on",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_stay_on_UVERworld.txt"
+    }
+  ]
+}
